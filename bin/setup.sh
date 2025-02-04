@@ -6,8 +6,8 @@ apt update && apt install -y git
 git config --global --add safe.directory "*"
 
 ## NOTE: Only change the following two lines
-git config --global user.name "Your Name"
-git config --global user.email "youremail@yourdomain.com"
+git config --global user.name "Gaurav-Shah05"
+git config --global user.email "gauravmshah1205@gmail.com"
 
 TOP=$(git rev-parse --show-toplevel)
 BIN=$TOP/bin
