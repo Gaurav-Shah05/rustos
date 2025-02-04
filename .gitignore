@@ -1,4 +1,6 @@
-target/
-build/
-TAGS
-.dep
+**/target/
+**/*.rs.bk
+**/Cargo.lock
+**/cargo-xbuild/
+**/input
+**/output
