@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS330 Lab assignments
 
 This repository contains lab assignments for CS330 "Operating Systems".
@@ -30,3 +31,6 @@ We built our labs based on the materials developed for
 `Georgia Tech CS3210` and `CS140e: An Experimental Course on Operating Systems` by Sergio Benitez.  
 We want to port it to use newer toolchains such as Rust 2021 (or hopefully 2024) edition and 
 Raspberry 5 if possible.
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YFBWxs9y)
+>>>>>>> team/main
