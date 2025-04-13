@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS330 Lab assignments
 
 This repository contains lab assignments for CS330 "Operating Systems".
